@@ -118,7 +118,7 @@ html {scroll-behavior: smooth;}
 
 
 /*--------index---------*/
-.banner_scn{ background:url(./bannerbg.jpg) top center no-repeat; background-size:cover; width:100%; display:table; vertical-align:middle; height:90vh; position:relative;}
+.banner_scn{ background:url(./bannerbg.jpg) center no-repeat; background-size:cover; width:100%; display:table; vertical-align:middle; height:90vh; position:relative;}
 .dspltblecel{ display:table-cell; vertical-align:middle;}
 .bannercntnt{ text-align:center;}
 .bannercntnt h1{font-family: 'Montserrat', sans-serif; font-size:70px; color:#fff; font-weight:700;}
