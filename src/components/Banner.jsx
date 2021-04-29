@@ -5,7 +5,7 @@ return <section className = "banner_scn">
     <div className="row">
       <div className="col-md-12">
         <div className="bannercntnt">
-           <h1>Jobs from your favourite <span className="brek">destinations in India</span></h1>
+           <h1>The Key to Unlock  <span className="brek">Your Career & Dreams</span></h1>
         </div>
       </div>
     </div>
